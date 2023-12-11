@@ -15,7 +15,7 @@ TagManager:
   - 
   - Ground
   - Envirnoment
-  - 
+  - NPC
   - 
   - 
   - 
@@ -43,4 +43,7 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 1961813853
     locked: 0
